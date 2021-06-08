@@ -1,33 +1,16 @@
-# Kishuswap Interface
+# Axolotl Swap Interface
 
-[![Unit Tests](https://github.com/Uniswap/uniswap-interface/actions/workflows/unit-tests.yaml/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions/workflows/unit-tests.yaml)
-[![Integration Tests](https://github.com/Uniswap/uniswap-interface/actions/workflows/integration-tests.yaml/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions/workflows/integration-tests.yaml)
-[![Lint](https://github.com/Uniswap/uniswap-interface/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions/workflows/lint.yml)
-[![Release](https://github.com/Uniswap/uniswap-interface/actions/workflows/release.yaml/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions/workflows/release.yaml)
+An open source interface for Axolotl Swap -- a protocol for decentralized exchange of Ethereum tokens.
 
-An open source interface for Kishuswap -- a protocol for decentralized exchange of Ethereum tokens.
-
-- Website: [kishu.finance](https://kishu.finance/)
-- Interface: [app.uniswap.org](https://app.uniswap.org)
-<!-- - Docs: [uniswap.org/docs/](https://uniswap.org/docs/) -->
-- Twitter: [@InuKishu](https://twitter.com/InuKishu)
-- Reddit: [/r/KishuInu](https://www.reddit.com/r/KishuInu/)
-- Email: [woof@kishu.finance](mailto:woof@kishu.finance)
+- Website: [axolotl.finance](https://axolotl.finance/)
+- Interface: [swap.axolotl.finance](https://swap.axolotl.finance)
+- Twitter: [@AxolotlToken](https://twitter.com/AxolotlToken)
+- Reddit: [/r/AxolotlToken](https://www.reddit.com/r/AxolotlToken/)
+- Email: [hello@axolotl.finance](mailto:hello@axolotl.finance)
 <!-- - Discord: [Uniswap](https://discord.gg/FCfyBSbCU5) -->
-- Whitepaper: [Link](https://kishu.finance/KishuInuWhitepaper_4-24-21.pdf)
-
-## Accessing the Uniswap Interface
-
-To access the Uniswap Interface, use an IPFS gateway link from the
-[latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
-or visit [app.uniswap.org](https://app.uniswap.org).
-
-## Listing a token
-
-Please see the
-[@uniswap/default-token-list](https://github.com/uniswap/default-token-list)
-repository.
-
+- Whitepaper: [Link](https://axolotl.finance/WhitePaperAxolotl.pdf)
+ 
+ 
 ## Development
 
 ### Install Dependencies
